@@ -3,6 +3,7 @@
   <div class="container">
     <Balance/>
     <IncomeExpenses/>
+    <TransactionList/>
 
   </div>
   </template>
@@ -10,6 +11,9 @@
 import Header from './components/Header.vue'
 import Balance from './components/Balance.vue'
 import IncomeExpenses from './components/IncomeExpenses.vue'
+import TransactionList from './components/TransactionList.vue'
+
+
 
 
 export default{
@@ -17,6 +21,7 @@ export default{
     Header,
     Balance,
     IncomeExpenses,
+    TransactionList,
   }
 }
 </script>
