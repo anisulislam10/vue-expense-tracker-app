@@ -1,9 +1,14 @@
-
-
 <template>
-  <h1> my App..</h1>
-</template>
-
+  <Header/>
+  </template>
+<script>
+import Header from './components/Header.vue'
+export default{
+  components:{
+    Header,
+  }
+}
+</script>
 <style scoped>
 
 </style>
