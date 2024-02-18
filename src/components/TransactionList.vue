@@ -5,7 +5,7 @@
           Cash <span>-PRR 400</span><button class="delete-btn">x</button>
         </li> 
         <li class="plus">
-          Cash <span>PKR 800</span><button class="delete-btn">x</button>
+          PayCash <span>PKR 800</span><button class="delete-btn">x</button>
         </li> 
       </ul>
 </template>
